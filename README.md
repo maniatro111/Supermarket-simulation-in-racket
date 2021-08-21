@@ -1,1 +1,1 @@
-# supermarket-simulation-in-racket
+# Supermarket-simulation-in-racket
